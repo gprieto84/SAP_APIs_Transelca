@@ -1,0 +1,1308 @@
+
+**** Trace file opened at 2020-04-19 08:11:39.184130 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 192.168.1.48, IPv6 address: ::1
+
+2020-04-19 08:11:39.218123 [18896] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+2020-04-19 08:12:01.400908 [18896] >> Error entry
+	[Handle: 2411332243456	ConvID: 	SysID: 	SysNr: 	Target: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Key: RFC_COMMUNICATION_FAILURE, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host GPRIETO with Unicode
+ERROR       partner '172.26.32.70:3301' not reached
+TIME        Sun Apr 19 08:12:01 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 172.26.32.70:3301
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+
+**** Trace file opened at 2020-04-19 08:12:19.401360 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-19 08:12:19.429178 [18784] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-19 08:13:52.285864 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-19 08:13:52.308555 [21224] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-19 08:19:11.699017 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-19 08:19:11.717580 [18864] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-19 08:19:53.167818 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-19 08:19:53.186106 [14204] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-21 22:30:15.430744 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 192.168.1.48, IPv6 address: ::1
+
+2020-04-21 22:30:15.458350 [12376] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+2020-04-21 22:30:36.552902 [12376] >> Error entry
+	[Handle: 2836189408112	ConvID: 	SysID: 	SysNr: 	Target: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Key: RFC_COMMUNICATION_FAILURE, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host GPRIETO with Unicode
+ERROR       partner '172.26.32.70:3301' not reached
+TIME        Tue Apr 21 22:30:36 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 172.26.32.70:3301
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+
+**** Trace file opened at 2020-04-21 22:31:30.041117 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 192.168.1.48, IPv6 address: ::1
+
+2020-04-21 22:31:30.062535 [16016] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+2020-04-21 22:31:51.099463 [16016] >> Error entry
+	[Handle: 1905314250112	ConvID: 	SysID: 	SysNr: 	Target: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Key: RFC_COMMUNICATION_FAILURE, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host GPRIETO with Unicode
+ERROR       partner '172.26.32.70:3301' not reached
+TIME        Tue Apr 21 22:31:51 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 172.26.32.70:3301
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+
+**** Trace file opened at 2020-04-21 23:02:42.002181 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-21 23:02:42.044734 [16612] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-21 23:09:28.816908 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-21 23:09:28.863989 [08004] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-21 23:15:09.181556 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-21 23:15:09.227255 [09320] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-21 23:20:41.512660 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-21 23:20:41.575005 [04300] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-21 23:23:04.104621 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-21 23:23:04.160797 [14388] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-21 23:29:17.264685 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-21 23:29:17.315988 [02716] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-21 23:31:54.972820 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-21 23:31:55.026004 [14524] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-21 23:33:08.103751 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-21 23:33:08.155244 [05664] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-21 23:33:17.114854 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-21 23:33:17.168519 [14408] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-21 23:36:28.084740 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-21 23:36:28.135695 [16924] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-21 23:36:30.444587 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-21 23:36:30.500538 [03296] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-21 23:38:37.463266 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-21 23:38:37.534848 [16784] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-21 23:39:49.476937 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-21 23:39:49.558995 [17396] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-21 23:45:51.326903 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-21 23:45:51.404919 [12512] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-21 23:46:38.512031 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-21 23:46:38.582457 [08660] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-21 23:47:58.979400 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-21 23:47:59.131004 [08392] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:02:34.951834 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:02:34.998636 [09456] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:02:45.596984 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:02:45.649938 [10540] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:03:30.368157 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:03:30.414803 [19008] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:03:32.123544 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:03:32.165508 [11480] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:07:56.092819 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:07:56.173279 [13332] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:07:57.693609 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:07:57.743829 [06048] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:09:14.782219 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:09:14.858002 [00468] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:09:32.683339 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:09:32.735470 [08128] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:17:26.910796 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:17:26.987456 [09896] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:17:39.086158 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:17:39.144650 [10692] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:20:59.658084 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:20:59.703489 [07452] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:21:01.397240 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:21:01.448161 [08016] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:21:44.770341 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:21:44.817057 [19444] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:23:26.870788 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:23:26.931892 [17472] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:23:32.958302 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:23:33.025965 [13892] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:32:45.156132 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:32:45.410643 [09308] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:32:53.581814 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:32:53.626491 [18708] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:33:49.829072 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:33:49.884384 [07288] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:38:40.096665 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:38:40.138720 [05228] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:50:42.378011 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:50:42.440880 [19388] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:50:43.797602 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:50:43.850718 [19296] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:52:04.548358 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:52:04.599102 [09204] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:52:05.913336 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:52:05.974036 [13680] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 00:58:07.048109 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 00:58:07.102682 [19296] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 01:00:06.082778 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 01:00:06.128844 [15172] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 01:03:54.484176 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 01:03:54.527534 [10836] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 01:03:55.673702 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 01:03:55.722882 [00816] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 01:08:22.076139 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 01:08:22.144450 [15988] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 01:25:12.930583 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 01:25:12.981797 [12984] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 01:25:14.270229 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 01:25:14.307012 [17628] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 01:25:44.055217 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 01:25:44.090853 [03628] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 01:26:12.168130 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 01:26:12.207910 [04104] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 01:27:43.077538 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 01:27:43.116984 [02068] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 01:28:13.463276 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 01:28:13.546545 [07728] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 01:28:15.169257 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 01:28:15.214089 [19376] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 07:52:13.471260 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 07:52:13.500954 [16076] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 07:52:14.107439 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 07:52:14.137991 [17720] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 07:55:32.385752 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 07:55:32.419707 [19900] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 07:55:33.295311 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 07:55:33.321044 [04612] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 07:58:15.171754 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 07:58:15.195398 [16280] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 08:00:28.953999 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 08:00:28.982462 [09500] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 08:00:29.687612 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 08:00:29.712630 [19612] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 08:01:25.437834 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 08:01:25.483312 [16756] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 08:17:44.746392 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 08:17:44.793908 [09800] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 08:17:46.777660 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 08:17:46.845258 [12872] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 08:18:26.206997 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 08:18:26.243847 [20372] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 08:19:51.589831 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 08:19:51.622849 [16992] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 09:15:18.500746 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 09:15:18.587751 [19796] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 09:16:10.953693 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 09:16:10.987230 [08188] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 09:17:43.460145 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 09:17:43.492823 [01248] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 09:20:07.081107 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 09:20:07.128484 [11148] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 09:26:11.099743 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 09:26:11.139525 [21340] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 09:27:39.921257 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 09:27:39.951580 [11948] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 09:27:40.769659 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 09:27:40.800490 [10272] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 09:29:29.130244 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 09:29:29.208991 [12920] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 09:29:33.385739 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 09:29:33.419831 [08484] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 09:38:34.035832 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 09:38:34.079270 [20340] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 09:43:39.756895 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 09:43:39.793382 [19972] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 09:43:58.938058 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 09:43:58.968894 [20724] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 09:44:49.611289 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 09:44:49.649013 [14240] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 09:45:25.368913 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 09:45:25.404083 [01188] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 09:45:27.182635 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 09:45:27.220884 [18944] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 10:01:53.283732 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 10:01:53.315730 [06764] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-22 10:05:05.815513 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-22 10:05:05.846941 [10132] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 09:02:18.217043 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 09:02:18.264694 [15456] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 09:05:54.734806 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 09:05:54.755260 [17880] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 09:05:55.220171 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 09:05:55.240162 [16936] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 09:10:43.793076 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 09:10:43.818146 [15068] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 09:18:06.703076 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 09:18:06.726456 [02300] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 09:22:01.693396 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 09:22:01.720915 [07052] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 09:22:12.844755 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 09:22:12.865534 [14132] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 09:22:13.442990 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 09:22:13.466615 [10932] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 09:28:38.508666 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 09:28:38.537004 [16400] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 09:37:36.961741 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 09:37:36.988108 [09940] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 09:37:37.572931 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 09:37:37.593496 [02032] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 10:22:25.280784 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 10:22:25.301725 [17168] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 10:22:25.738834 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 10:22:25.759643 [20072] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 10:23:19.784489 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 10:23:19.805553 [18244] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 10:23:20.452255 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 10:23:20.481292 [11604] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 10:24:08.167136 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 10:24:08.187859 [18332] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 10:24:08.783958 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 10:24:08.805088 [13832] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 10:26:18.842186 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 10:26:18.862636 [00432] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 10:26:19.492744 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 10:26:19.517662 [11188] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 10:37:36.174714 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 10:37:36.197928 [03508] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 10:39:05.519452 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 10:39:05.544475 [09272] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 10:39:06.157392 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 10:39:06.179388 [14280] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 10:42:50.348076 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 10:42:50.368067 [10996] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 10:42:51.049509 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 10:42:51.070085 [14016] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 10:48:09.769520 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 10:48:09.788225 [04376] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 10:48:25.169595 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 10:48:25.217879 [16156] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-04-23 10:53:22.546215 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.194, IPv6 address: ::1
+
+2020-04-23 10:53:22.583142 [12448] >> Info entry
+	Searching for config file sapnwrfc.ini
+
