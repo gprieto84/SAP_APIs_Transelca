@@ -21,23 +21,23 @@ class Notification(db.Model): #VIQMEL
     work_center = db.Column(db.Integer) #ARBPL
     obj_nr = db.Column(db.String,nullable = False) #OBJNR
 
-type_cols = {'QMART':'type_n', 'STSMA':'status_schema'}
+type_col = {'QMART':'type_n', 'STSMA':'status_schema'}
 class Type(db.Model): #TQ80
     __tablename__ = 'SAP_notification_type'
     
     type_n =  db.Column(db.String(20), primary_key=True) #QMART
     status_schema =  db.Column(db.String(20)) #STSMA
 
-notification_text_columns = {'QMNUM':'n_number', 'FETXT':'short_text'}
-class Notification_Text(db.Model): #QMFE
+text_col = {'QMNUM':'n_number', 'FETXT':'short_text'}
+class Text(db.Model): #QMFE
     __tablename__ = 'SAP_notification_text'
     
     id = db.Column(db.Integer, primary_key=True, autoincrement=True) #ID
     n_number = db.Column(db.String(20), nullable= False) #QMNUM
     short_text = db.Column(db.String) #FETXT
 
-notification_activity_columns = {'QMNUM':'n_number', 'MATXT':'activity_text','MNGRP':'group','MNCOD':'code', 'MNKAT':'catalog'}
-class Notification_Activity(db.Model): #QMMA
+acti_col = {'QMNUM':'n_number', 'MATXT':'activity_text','MNGRP':'group','MNCOD':'code', 'MNKAT':'catalog'}
+class Activity(db.Model): #QMMA
     __tablename__ = 'SAP_notification_activities'
     
     id = db.Column(db.Integer, primary_key=True, autoincrement=True) #ID
@@ -47,8 +47,8 @@ class Notification_Activity(db.Model): #QMMA
     activity_text = db.Column(db.String) #MATXT
     catalog = db.Column(db.String) #MNKAT
 
-notification_activity_header_columns = {'CODEGRUPPE':'group', 'CODE':'code', 'KURZTEXT':'description', 'KATALOGART':'catalog'}
-class Notification_Activity_Header(db.Model): #QPCT
+acth_col = {'CODEGRUPPE':'group', 'CODE':'code', 'KURZTEXT':'description', 'KATALOGART':'catalog'}
+class Activity_H(db.Model): #QPCT
     __tablename__ = 'SAP_notification_activities_header'
     
     id = db.Column(db.Integer, primary_key=True, autoincrement=True) #ID
@@ -131,9 +131,9 @@ class User_Status(db.Model):#TJ30T
     code = db.Column(db.String(20),nullable = False) #TXT04
     description = db.Column(db.String,nullable = False) #TXT30
 
-status_columns = {'OBJNR':'obj_nr', 'STAT':'status_id','INACT':'disabled'}
-system_status_columns = {'OBJNR':'obj_nr', 'STAT':'status_id','INACT':'disabled'}
-class Notification_System_Status(db.Model):
+status_col = {'OBJNR':'obj_nr', 'STAT':'status_id','INACT':'disabled'}
+sys_stat_col = {'OBJNR':'obj_nr', 'STAT':'status_id','INACT':'disabled'}
+class Noti_System_Status(db.Model):
     __tablename__ = 'SAP_notification_system_status'
 
     id = db.Column(db.Integer, primary_key=True,autoincrement=True)

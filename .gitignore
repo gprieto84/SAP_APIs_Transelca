@@ -135,4 +135,4 @@ dmypy.json
 sapnwrfc.cfg
 *.whl
 .vscode
-.trc
+dev_rfc.trc
