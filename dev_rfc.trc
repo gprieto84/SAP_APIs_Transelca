@@ -2171,3 +2171,36 @@ NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 
 2020-04-23 23:09:18.522992 [09776] >> Info entry
 	Searching for config file sapnwrfc.ini
 
+
+**** Trace file opened at 2020-07-22 16:11:08.788904 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.148, IPv6 address: ::1
+
+2020-07-22 16:11:08.811980 [01180] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-07-22 16:12:15.101371 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.148, IPv6 address: ::1
+
+2020-07-22 16:12:15.121451 [18132] >> Info entry
+	Searching for config file sapnwrfc.ini
+
+
+**** Trace file opened at 2020-07-22 16:12:31.831974 UTC-05:00 (SA Pacific Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 5, Compiled on Aug 20 2019 15:06:49
+ CPIC library: 753.2019.02.22 version 3, NI library: 40, Kernel Release: 753 Patch Level 500
+ Current working directory: D:\OneDrive\OneDrive - INTERCONEXION ELECTRICA S.A. E.S.P\TRANSELCA\ZZ DEVELOPMENTS\SAP_APIs_Transelca, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: GPRIETO, IP address: 172.24.8.148, IPv6 address: ::1
+
+2020-07-22 16:12:31.851819 [19988] >> Info entry
+	Searching for config file sapnwrfc.ini
+

@@ -8,10 +8,11 @@ app = Flask(__name__)
 app.config.from_object(Config)
 db = SQLAlchemy(app)
 
-from resources.notification import notifications
-from database import notification_model
 
-app.register_blueprint(notifications)
 
 if __name__ == '__main__':
-    app.run()    
+    app.run()
+
+from resources.notification import notifications
+from database import notification_model
+app.register_blueprint(notifications) 
