@@ -1,4 +1,5 @@
 import pandas as pd
+from app import db
 from datetime import date, timedelta
 
 
@@ -12,14 +13,14 @@ def test(start_date, end_date):
         start_date += delta + timedelta(days=1)
 
 
-def delsert_table(df,orm_obj,db,field):
+def delsert_table(df,orm_obj,field):
     df_db = pd.read_sql_table(orm_obj.__tablename__,con=db.engine)
     df_exist = pd.merge(df, df_db[field].drop_duplicates(), how='inner', on=[field])
     orm_obj.query.filter(getattr(orm_obj, field).in_(df_exist[field])).delete(synchronize_session=False)
     db.session.bulk_insert_mappings(orm_obj, df.to_dict(orient="records"))
     db.session.commit()
 
-def del_index(orm_obj,db):
+def del_index(orm_obj):
     orm_obj.query.delete(synchronize_session=False)
     db.session.commit()
     with db.engine.connect() as connection:
@@ -27,7 +28,7 @@ def del_index(orm_obj,db):
         connection.execute(drop_spow)
     db.session.commit()
 
-def insert(df, orm_obj, db):
+def insert(df, orm_obj):
     db.session.bulk_insert_mappings(orm_obj, df.to_dict(orient="records"))
     db.session.commit()
     
